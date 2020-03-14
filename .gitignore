@@ -1,2 +1,7 @@
 # macOS
 .DS_Store
+
+# SSL
+client-cert.pem
+client-key.pem
+server-ca.pem
